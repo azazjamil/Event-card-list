@@ -1,0 +1,76 @@
+body{
+    padding: 5px;
+}
+/* .selector-for-some-widget {
+    box-sizing: content-box;
+  } */
+.card-border{
+    border: none;
+    /* width: 18rem; */
+}
+.card-container{
+    margin: 0;
+    padding-top: 50px;
+}
+.title-bold{
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.btn-color{
+    outline: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    background-color:#064545;
+    border: 1px solid #064545;
+    border-radius: 5px;
+}
+.btn-color:hover{
+    color: white;
+    opacity: .9;
+}
+.page-numbers{
+    text-align: center;
+    margin: 2rem 0;
+}
+.page-numbers span{
+     margin-right: 1rem;
+     border: 1px solid #064545;
+     padding: 10px;
+}
+.page-numbers span:hover{
+    background-color: #064545;
+    color: white;
+}
+.active{
+    background-color: #064545;
+    color: white;
+}
+.filter-section{
+    margin:15px;
+    padding: 50px 0;
+    border-bottom: 3px solid #064545;
+}
+.zip-input{
+    outline:2px solid #064545;
+    border: none;
+    padding: 2px;
+    margin-right: 2rem;
+    font-weight: 700;
+}
+.check-input{
+    outline: 3px solid #064545;
+    border: none;
+    margin-right: .5rem;
+}
+.check-label{
+    font-weight: 700;
+    font-weight: 700;
+}
+.filter-para{
+    text-align: center;
+}
+.btn-padding{
+    padding: 5px;
+}
